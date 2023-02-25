@@ -1,2 +1,3 @@
-print("hello world")
-print("falana world")
+print("hello world this is new world")
+print("Kuch bhi")
+print("alok ki query")
